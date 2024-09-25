@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\src\\routes\\inventoryroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:src\\routes\\inventoryroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\src\\routes\\facturasroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:src\\routes\\facturasroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\src\\controllers\\facturacontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:src\\controllers\\facturacontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturasRoutes.js",
+              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Routes\\FacturasRoutes.js",
+              "RelativeDocumentMoniker": "src\\Routes\\FacturasRoutes.js",
+              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Routes\\FacturasRoutes.js",
+              "RelativeToolTip": "src\\Routes\\FacturasRoutes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T04:09:40.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryRoutes.js",
+              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Routes\\InventoryRoutes.js",
+              "RelativeDocumentMoniker": "src\\Routes\\InventoryRoutes.js",
+              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Routes\\InventoryRoutes.js",
+              "RelativeToolTip": "src\\Routes\\InventoryRoutes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T04:09:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaController.js",
+              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Controllers\\FacturaController.js",
+              "RelativeDocumentMoniker": "src\\Controllers\\FacturaController.js",
+              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Controllers\\FacturaController.js",
+              "RelativeToolTip": "src\\Controllers\\FacturaController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T04:02:00.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

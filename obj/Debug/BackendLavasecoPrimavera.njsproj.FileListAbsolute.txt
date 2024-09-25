@@ -1,0 +1,3 @@
+D:\BackendDegreeProject\BackendLavasecoPrimavera\obj\Debug\BackendLavasecoPrimavera.njsproj.AssemblyReference.cache
+D:\BackendDegreeProject\BackendLavasecoPrimavera\obj\Debug\BackendLavasecoPrimavera.njsproj.CoreCompileInputs.cache
+D:\BackendDegreeProject\BackendLavasecoPrimavera\bin\Microsoft.NodejsTools.WebRole.dll
