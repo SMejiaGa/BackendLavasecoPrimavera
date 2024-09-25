@@ -2,12 +2,12 @@
 
 const express = require('express');
 const router = express.Router();
-const InventoryController = require('../controllers/InventoryController');
+const InventoryController = require('../controllers/Postgres/PostgresInventoryController');
 
-router.post('/', InventoryController.createInventoryItem);
-router.get('/', InventoryController.searchInventoryItems);
-router.get('/:id', InventoryController.searchInventoryItems);
-router.put('/:id', InventoryController.updateInventoryItem);
-router.delete('/:id', InventoryController.deleteInventoryItem);
+router.post('/inventario', InventoryController.createInventoryItem);
+router.get('/inventario', InventoryController.searchInventoryItems);
+router.get('/inventario/:id', InventoryController.searchInventoryItems);
+router.put('/inventario/:id', InventoryController.updateInventoryItem);
+router.delete('/inventario/:id', InventoryController.deleteInventoryItem);
 
 module.exports = router;

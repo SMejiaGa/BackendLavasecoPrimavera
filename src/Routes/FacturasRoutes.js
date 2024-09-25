@@ -2,7 +2,7 @@
 
 const express = require('express');
 const router = express.Router();
-const facturaController = require('../Controllers/FacturaController');
+const facturaController = require('../Controllers/Postgres/PostgresFacturaController');
 router.post('/facturas', facturaController.createFactura);
 router.get('/facturas', facturaController.getFacturas);
 router.get('/facturas/:id', facturaController.getFacturaById);

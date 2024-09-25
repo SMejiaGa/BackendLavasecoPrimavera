@@ -4,12 +4,15 @@ const bodyParser = require('body-parser');
 require('dotenv').config();
 
 const facturaRoutes = require('./src/Routes/FacturasRoutes');
+const inventarioRoutes = require('./src/Routes/InventoryRoutes');
+
 const app = express();
 const PORT = process.env.PORT || 3000; 
 
 app.use(cors());
 app.use(bodyParser.json());
 app.use('/api', facturaRoutes);
+app.use('/api', inventarioRoutes);
 
 process.on('unhandledRejection', (reason, promise) => {
     console.error('Unhandled Rejection at:', promise, 'reason:', reason);
