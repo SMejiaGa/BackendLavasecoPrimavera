@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\src\\controllers\\postgres\\postgresinventorycontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:src\\controllers\\postgres\\postgresinventorycontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\src\\controllers\\postgres\\postgresfacturacontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:src\\controllers\\postgres\\postgresfacturacontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,66 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "app.js",
               "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\app.js",
               "RelativeDocumentMoniker": "app.js",
               "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\app.js",
               "RelativeToolTip": "app.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-25T05:55:58.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PostgresInventoryController.js",
-              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Controllers\\Postgres\\PostgresInventoryController.js",
-              "RelativeDocumentMoniker": "src\\Controllers\\Postgres\\PostgresInventoryController.js",
-              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Controllers\\Postgres\\PostgresInventoryController.js",
-              "RelativeToolTip": "src\\Controllers\\Postgres\\PostgresInventoryController.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-25T05:45:53.826Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "b36b5ab5-9cdf-42dd-b872-bf4e93165a0a",
-        "Display": 1,
-        "X": 337,
-        "Y": 149,
-        "Width": 1558,
-        "Height": 803,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostgresFacturaController.js",
-              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Controllers\\Postgres\\PostgresFacturaController.js",
-              "RelativeDocumentMoniker": "src\\Controllers\\Postgres\\PostgresFacturaController.js",
-              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Controllers\\Postgres\\PostgresFacturaController.js",
-              "RelativeToolTip": "src\\Controllers\\Postgres\\PostgresFacturaController.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-25T05:51:34.678Z",
+              "WhenOpened": "2024-09-29T01:24:12.334Z",
               "EditorCaption": ""
             }
           ]
