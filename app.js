@@ -8,6 +8,7 @@ const clienteRoutes = require('./src/Routes/ClienteRoutes');
 const empleadosRoutes = require('./src/Routes/EmpleadosRoutes');
 const costosRoutes = require('./src/Routes/CostosRoutes');
 const tipoCostoRoutes = require('./src/Routes/TipoCostoRoutes');
+const detallesFacturasRoutes = require('./src/Routes/FacturaDetalleRoutes');
 
 const app = express();
 const PORT = process.env.PORT || 3000; 
@@ -19,6 +20,7 @@ app.use('/api', clienteRoutes);
 app.use('/api', empleadosRoutes);
 app.use('/api', costosRoutes);
 app.use('/api', tipoCostoRoutes);
+app.use('/api', detallesFacturasRoutes);
 
 process.on('unhandledRejection', (reason, promise) => {
     console.error('Unhandled Rejection at:', promise, 'reason:', reason);

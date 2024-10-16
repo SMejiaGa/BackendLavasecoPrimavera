@@ -1,3 +1,5 @@
+// src/routes/EmpleadosRoutes.js
+
 const express = require('express');
 const router = express.Router();
 const empleadoController = require('../Controllers/Postgres/PostgresEmpleadoController');
