@@ -1,14 +1,13 @@
-//PostgresFacturaController
 const db = require('../../../config/Postgres/PostgresDB');
 
-// Crear Factura
+// Crear una nueva factura
 exports.createFactura = async (req, res) => {
-    const { fecha_ingreso, fecha_despacho, codigo_cliente, codigo_detalle, total, entregado } = req.body;
+    const { codigo_cliente, codigo_detalle, fecha_ingreso, fecha_despacho, total, entregado } = req.body;
 
     try {
         const result = await db.query(
-            'INSERT INTO facturacion (fecha_ingreso, fecha_despacho, codigo_cliente, codigo_detalle, total, entregado) VALUES ($1, $2, $3, $4, $5, $6) RETURNING *',
-            [fecha_ingreso, fecha_despacho, codigo_cliente, codigo_detalle, total, entregado]
+            'INSERT INTO facturacion (codigo_cliente, codigo_detalle, fecha_ingreso, fecha_despacho, total, entregado) VALUES ($1, $2, $3, $4, $5, $6) RETURNING *',
+            [codigo_cliente, codigo_detalle, fecha_ingreso, fecha_despacho, total, entregado]
         );
         res.status(201).json({ message: 'Factura creada exitosamente', data: result.rows[0] });
     } catch (err) {

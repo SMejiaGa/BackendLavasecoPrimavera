@@ -1,3 +1,5 @@
+// src/routes/CostosRoutes.js
+
 const express = require('express');
 const router = express.Router();
 const costosController = require('../Controllers/Postgres/PostgresCostosController');

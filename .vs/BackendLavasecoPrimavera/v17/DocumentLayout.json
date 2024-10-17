@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\testfield.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:testfield.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\src\\routes\\facturadetalleroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:src\\routes\\facturadetalleroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\src\\routes\\facturasroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:src\\routes\\facturasroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|d:\\backenddegreeproject\\backendlavasecoprimavera\\src\\controllers\\postgres\\postgresclientecontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B1D9447-A05B-4E53-8EA0-2E0D9C07A9D8}|BackendLavasecoPrimavera.esproj|solutionrelative:src\\controllers\\postgres\\postgresclientecontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "app.js",
-              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\app.js",
-              "RelativeDocumentMoniker": "app.js",
-              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\app.js",
-              "RelativeToolTip": "app.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-29T01:24:12.334Z",
+              "Title": "TestField.html",
+              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\TestField.html",
+              "RelativeDocumentMoniker": "TestField.html",
+              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\TestField.html",
+              "RelativeToolTip": "TestField.html",
+              "ViewState": "AgIAALMAAAAAAAAAAAAwwOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T18:40:44.646Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostgresClienteController.js",
+              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Controllers\\Postgres\\PostgresClienteController.js",
+              "RelativeDocumentMoniker": "src\\Controllers\\Postgres\\PostgresClienteController.js",
+              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Controllers\\Postgres\\PostgresClienteController.js",
+              "RelativeToolTip": "src\\Controllers\\Postgres\\PostgresClienteController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T18:17:47.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaDetalleRoutes.js",
+              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Routes\\FacturaDetalleRoutes.js",
+              "RelativeDocumentMoniker": "src\\Routes\\FacturaDetalleRoutes.js",
+              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Routes\\FacturaDetalleRoutes.js",
+              "RelativeToolTip": "src\\Routes\\FacturaDetalleRoutes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T18:17:26.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturasRoutes.js",
+              "DocumentMoniker": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Routes\\FacturasRoutes.js",
+              "RelativeDocumentMoniker": "src\\Routes\\FacturasRoutes.js",
+              "ToolTip": "D:\\BackendDegreeProject\\BackendLavasecoPrimavera\\src\\Routes\\FacturasRoutes.js",
+              "RelativeToolTip": "src\\Routes\\FacturasRoutes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T18:16:56.851Z"
             }
           ]
         }
